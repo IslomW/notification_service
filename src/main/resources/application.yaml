@@ -1,0 +1,21 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: tawkenskiy000@gmail.com
+    password: ehsn bzua nptv whdz
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+
+telegram:
+  bot:
+    token: 8156975480:AAFJAuakJzrlklQe5PtifnIoNRFzhCVji00
+    username: IslomW_bot
+
+
+
