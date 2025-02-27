@@ -1,2 +1,5 @@
-package com.sharipov.notification_service.event;public class NotificationChannel {
+package com.sharipov.notification_service.event;
+
+public enum NotificationChannel {
+    EMAIL, TELEGRAM
 }
